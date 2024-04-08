@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/bargain-static/static/css/main.014d49b1.css",
-    "main.js": "/bargain-static/static/js/main.28a4e30a.js",
+    "main.js": "/bargain-static/static/js/main.9a22e71c.js",
     "static/media/young-woman-with-shopping-bags-beautiful-dress-hat.jpg": "/bargain-static/static/media/young-woman-with-shopping-bags-beautiful-dress-hat.99977eeb6e01e3c87b09.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/bargain-static/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/lehanga.jpeg": "/bargain-static/static/media/lehanga.f0fcc11312e0773bce7c.jpeg",
     "static/media/fontawesome-webfont.eot": "/bargain-static/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/bargain-static/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fashion-model-kids.jpg": "/bargain-static/static/media/fashion-model-kids.bd2dce51d4006b6d83a9.jpg",
+    "static/media/women-desktop22.jpg": "/bargain-static/static/media/women-desktop22.c62497faf6fb3fc54c65.jpg",
     "static/media/paypal.webp": "/bargain-static/static/media/paypal.045797956258fb2c8e42.webp",
     "static/media/jewellery-desktop1.jpg": "/bargain-static/static/media/jewellery-desktop1.4123f47b7db5bbbcfb4c.jpg",
     "static/media/sarees.webp": "/bargain-static/static/media/sarees.cdf72d2c5871304b222d.webp",
@@ -22,7 +23,6 @@
     "static/media/jewellery-tablet1.jpg": "/bargain-static/static/media/jewellery-tablet1.61d460dfde42f11ef339.jpg",
     "static/media/visa.webp": "/bargain-static/static/media/visa.c14406d4f1be3210aa89.webp",
     "static/media/books-tablet.jpg": "/bargain-static/static/media/books-tablet.94840db0ea1a16af5554.jpg",
-    "static/media/wo-desk.jpg": "/bargain-static/static/media/wo-desk.0d5eac420364e591904e.jpg",
     "static/media/dresses.webp": "/bargain-static/static/media/dresses.605d2d50fa2ad8f88293.webp",
     "static/media/books.avif": "/bargain-static/static/media/books.b441168e1e058d8bb055.avif",
     "static/media/mastercard.png": "/bargain-static/static/media/mastercard.414245d0833c064c9f86.png",
@@ -39,10 +39,10 @@
     "static/media/revicons.woff": "/bargain-static/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/bargain-static/index.html",
     "main.014d49b1.css.map": "/bargain-static/static/css/main.014d49b1.css.map",
-    "main.28a4e30a.js.map": "/bargain-static/static/js/main.28a4e30a.js.map"
+    "main.9a22e71c.js.map": "/bargain-static/static/js/main.9a22e71c.js.map"
   },
   "entrypoints": [
     "static/css/main.014d49b1.css",
-    "static/js/main.28a4e30a.js"
+    "static/js/main.9a22e71c.js"
   ]
 }
